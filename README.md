@@ -1,2 +1,2 @@
 # proyectos
-Poryectos escolares.
+Proyectos escolares.
